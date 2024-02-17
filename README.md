@@ -1,3 +1,6 @@
+<!-- https://www.youtube.com/watch?v=RVFAyFWO4go       (länk till kursen by Dave Gray) -->
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

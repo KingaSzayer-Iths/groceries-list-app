@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Almonds, chips"
+    },
+    {
+      "id": "211",
+      "checked": false,
+      "item": "kokosboll"
+    },
+    {
+      "id": "2111",
+      "checked": false,
+      "item": "chocklad"
+    },
+    {
+      "id": "211111",
+      "checked": false,
+      "item": "bröd"
+    },
+    {
+      "id": "2111111",
+      "checked": false,
+      "item": "mjölk"
+    }
+  ]
+}
